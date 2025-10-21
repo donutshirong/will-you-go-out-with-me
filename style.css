@@ -12,7 +12,7 @@ body {
     background: whitesmoke;
     font-family: Gamja Flower;
     font-size: large;
-    background-color: rgb(246, 211, 217);
+    background-color: #B5F8FE;
     
 }
 
@@ -59,3 +59,4 @@ button:nth-child(2) {
     background: white;
     color: #8E443D;
 }
+
