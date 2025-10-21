@@ -46,17 +46,18 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid #8E443D;
+    border: 2px solid #FCE4D8;
 }
 
 button:nth-child(1) {
     margin-left: -200px;
-    background: #8E443D;
+    background: #FCE4D8;
 }
 
 button:nth-child(2) {
     margin-right: -200px;
     background: white;
-    color: #8E443D;
+    color: #FCE4D8;
 }
+
 
